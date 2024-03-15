@@ -1,0 +1,26 @@
+<annotation>
+	<folder>under_extrusion</folder>
+	<filename>5qkZW.jpg</filename>
+	<path>/Users/zimengx/code/TensorFlow/workspace/training_demo/notdoneimages/under_extrusion/5qkZW.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1158</width>
+		<height>1062</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>under_extrusion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>441</ymin>
+			<xmax>477</xmax>
+			<ymax>855</ymax>
+		</bndbox>
+	</object>
+</annotation>

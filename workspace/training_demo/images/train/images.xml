@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cracks</folder>
+	<filename>images.jpg</filename>
+	<path>/Users/zimengx/code/TensorFlow/workspace/training_demo/images/cracks/images.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>274</width>
+		<height>184</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>82</ymin>
+			<xmax>160</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>
